@@ -1,6 +1,6 @@
 # OstadAssignment06-Shafin Rahman
 - #### Write a Java program that takes user input to create a new text file named "myFile.txt" and writes the user's input to the file. The program should keep accepting lines of text until the user enters "exit".
-  -  Input: When user enters input into the console, the program stores console input in the "myFile.txt" file. This program will terminate when the user types 'exit'.
+  -  Input: When a user enters input data into the console, the program stores input data in the "myFile.txt" file. This program will terminate when the user types 'exit' in the console.
   -  Code
  <pre>
    <code>
