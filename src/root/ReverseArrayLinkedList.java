@@ -32,7 +32,7 @@ public class ReverseArrayLinkedList {
 		arrList.add(0, 100);
 		arrList.add(1, 150);
 
-		System.out.println("\n\nUpdated ArrayList:");
+		System.out.println("\n\nUpdated ArrayList After Adding Elements:");
 		for (int i : arrList) {
 			System.out.print(i + " ");
 		}
